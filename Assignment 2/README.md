@@ -1,7 +1,7 @@
 # COL226: Assignment 2
 
 ## About:
-The zip file contains ```bool.lex```, ```bool.yacc```, ```load-bool.sml``` and ```loader.sml```. 
+The folder contains ```bool.lex```, ```bool.yacc```, ```load-bool.sml``` and ```loader.sml```. 
 
 It also contains the ebnf specification of the grammar of boolean language stored as ```ebnf.txt```.
 
