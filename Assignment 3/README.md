@@ -1,7 +1,7 @@
 # COL226: Assignment 3
 
 ## About:
-The zip file contains ```bool.lex```, ```bool.yacc```, ```load-bool.sml```, ```ast.sml```, ```evaluator.sml``` and ```loader.sml```. 
+The folder contains ```bool.lex```, ```bool.yacc```, ```load-bool.sml```, ```ast.sml```, ```evaluator.sml``` and ```loader.sml```. 
 
 
 ## How to Run the Code:
