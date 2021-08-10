@@ -1,4 +1,4 @@
-# COL226 Assignments
+# Programming Languages Assignments
 These assignments are of the course COL226- Programming Languages offered in 2nd sem 2020-21 in IIT Delhi. All the assignments are implemented in SML/NJ97. 
 
 ## Assignment 1: 
