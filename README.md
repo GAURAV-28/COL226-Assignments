@@ -41,5 +41,5 @@ Evaluation is based on Call-by-value strategy. Type-checking is implemented usin
 For how to run the code and other details, click [here](https://github.com/GAURAV-28/COL226-Assignments/tree/main/Assignment%203).
 
 ### Author:
-* [Gaurav Jain](https://github.com/GAURAV-28)   -   2019CS10349
+* [Gaurav Jain](https://github.com/GauravJain28)   -   2019CS10349
 
